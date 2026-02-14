@@ -1,6 +1,8 @@
-# LATAM Agent (OpenAI + Python)
+# LATAM AI Agent (OpenAI)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f10839b9-940b-4431-a23f-272345b2073a" />
 Chat enfocado solo en Latinoamerica y el Caribe, con guardrails de evidencia.
+
 
 ## Intención
 Sí, usa OpenAI agents, ni datasets ni ollama ni nada. La intención cuenta.
